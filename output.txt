@@ -1,0 +1,41 @@
+C:\Users\USER\Desktop\codenera>javac CodinationTest2.java
+
+C:\Users\USER\Desktop\codenera>java CodinationTest2
+                Game of life
+1) Print the Current Generation
+2) Print The Next Generation
+3) Exit the Program
+Enter Your Choice :1
+Orirginal
+D for Dead cell
+L for aLive cell
+D D D D D D D D D D
+D D D D D L L D D D
+D D D D D D L D D D
+D D D D D D D D D D
+D D D D D D D D D D
+D D L L D D D D D D
+D D D L L D D D D D
+D D D D D D L D D D
+D D D D D L D D D D
+D D D D D D D D D D
+
+1) Print the Current Generation
+2) Print The Next Generation
+3) Exit the Program
+Enter Your Choice :2
+Next Generation
+D D D D D D D D D D
+D D D D D L L D D D
+D D D D D L L D D D
+D D D D D D D D D D
+D D D D D D D D D D
+D D L L L D D D D D
+D D L L L D D D D D
+D D D D L L D D D D
+D D D D D D D D D D
+D D D D D D D D D D
+1) Print the Current Generation
+2) Print The Next Generation
+3) Exit the Program
+Enter Your Choice :3
